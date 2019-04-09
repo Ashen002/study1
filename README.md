@@ -6,4 +6,4 @@
  
 这边遇到一个小插曲 
 
-!{image}(https://github.com/Ashen002/study1/master/images/image.png)
+!{image}(https://github.com/Ashen002/study1/blob/master/images/image.png)
