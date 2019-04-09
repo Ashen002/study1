@@ -3,5 +3,7 @@
 
 1首先我们需要去阿里云上安装docker 
  具体安装阿里云都有 具体参考https://yq.aliyun.com/articles/336442
+ 
 这边遇到一个小插曲 
-${image}(https://raw.githubusercontent.com/Ashen002/study1/master/images/image.png)
+
+!{image}(https://raw.githubusercontent.com/Ashen002/study1/master/images/image.png)
