@@ -6,4 +6,5 @@
  
 这边遇到一个小插曲 
 ![image](https://github.com/Ashen002/study1/blob/master/images/image.png)
+解决：主要原因还是centos系统版本兼容性问题，如果将系统做更新升级，即可解决
 
